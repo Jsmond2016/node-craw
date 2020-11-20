@@ -14,3 +14,10 @@
 - [nightmare文档翻译](https://www.cnblogs.com/shen55/p/12241695.html)
 - [jQuery基本操作](https://jquery.cuishifeng.cn/)
 
+
+相关技术：
+
+- [express](https://www.expressjs.com.cn/)
+- [superagent](https://github.com/visionmedia/superagent)
+- [cheerio](https://github.com/cheeriojs/cheerio#readme)
+- [nightmare](https://github.com/segmentio/nightmare#readme)
